@@ -23,8 +23,6 @@
 		4D45E43F243C7A6600637259 /* AlarmStoryBoard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D45E43E243C7A6600637259 /* AlarmStoryBoard.storyboard */; };
 		4D45E442243C7CCF00637259 /* FirstSoundVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D45E441243C7CCF00637259 /* FirstSoundVC.swift */; };
 		4D45E444243C7CE600637259 /* SecondSoundVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D45E443243C7CE600637259 /* SecondSoundVC.swift */; };
-		4D45E446243C7CFD00637259 /* FirstMeditationVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D45E445243C7CFD00637259 /* FirstMeditationVC.swift */; };
-		4D45E448243C7D1100637259 /* SecondMeditationVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D45E447243C7D1100637259 /* SecondMeditationVC.swift */; };
 		4D45E44A243C7D1D00637259 /* FirstAlarmVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D45E449243C7D1D00637259 /* FirstAlarmVC.swift */; };
 		4D45E44C243C7D2900637259 /* SecondAlarmVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D45E44B243C7D2900637259 /* SecondAlarmVC.swift */; };
 		4D45E44E243C7D3500637259 /* ThirdAlarmVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D45E44D243C7D3500637259 /* ThirdAlarmVC.swift */; };
@@ -54,6 +52,19 @@
 		7FE1D6D12442FEA40089D4FA /* Ocean Waves.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7FE1D6BB2442FEA40089D4FA /* Ocean Waves.mp3 */; };
 		7FE1D6D22442FEA40089D4FA /* Sunny Day.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7FE1D6BC2442FEA40089D4FA /* Sunny Day.mp3 */; };
 		7FE1D6D32442FEA40089D4FA /* Flowing Water.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7FE1D6BD2442FEA40089D4FA /* Flowing Water.mp3 */; };
+		A5DA7EAA24444CB7005DB919 /* MainVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5DA7EA924444CB7005DB919 /* MainVC.swift */; };
+		A5DA7EAC24444CCC005DB919 /* DetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5DA7EAB24444CCC005DB919 /* DetailVC.swift */; };
+		A5DA7EAE24444CDF005DB919 /* DesignTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5DA7EAD24444CDF005DB919 /* DesignTableViewCell.swift */; };
+		A5DA7EDD24445A30005DB919 /* Country-Meadow.m4a in Resources */ = {isa = PBXBuildFile; fileRef = A5DA7EDC24445A30005DB919 /* Country-Meadow.m4a */; };
+		A5DA7EDF24445A38005DB919 /* Deep-Ocean.m4a in Resources */ = {isa = PBXBuildFile; fileRef = A5DA7EDE24445A38005DB919 /* Deep-Ocean.m4a */; };
+		A5DA7EE024445B55005DB919 /* Blue-Lagoon.m4a in Resources */ = {isa = PBXBuildFile; fileRef = A5DA7EDA24445A24005DB919 /* Blue-Lagoon.m4a */; };
+		A5DA7EE824445D4F005DB919 /* Tropical-Sands.m4a in Resources */ = {isa = PBXBuildFile; fileRef = A5DA7EE124445D41005DB919 /* Tropical-Sands.m4a */; };
+		A5DA7EE924445D4F005DB919 /* Mountain-Refuge.m4a in Resources */ = {isa = PBXBuildFile; fileRef = A5DA7EE224445D44005DB919 /* Mountain-Refuge.m4a */; };
+		A5DA7EEA24445D4F005DB919 /* Desert-Oasis.m4a in Resources */ = {isa = PBXBuildFile; fileRef = A5DA7EE324445D46005DB919 /* Desert-Oasis.m4a */; };
+		A5DA7EEB24445D4F005DB919 /* Island-Paradise.m4a in Resources */ = {isa = PBXBuildFile; fileRef = A5DA7EE424445D47005DB919 /* Island-Paradise.m4a */; };
+		A5DA7EEC24445D4F005DB919 /* Fantasy-Island.m4a in Resources */ = {isa = PBXBuildFile; fileRef = A5DA7EE524445D49005DB919 /* Fantasy-Island.m4a */; };
+		A5DA7EED24445D4F005DB919 /* Pain-Management.m4a in Resources */ = {isa = PBXBuildFile; fileRef = A5DA7EE624445D4C005DB919 /* Pain-Management.m4a */; };
+		A5DA7EEE24445D4F005DB919 /* Falling-Asleep.m4a in Resources */ = {isa = PBXBuildFile; fileRef = A5DA7EE724445D4F005DB919 /* Falling-Asleep.m4a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -75,8 +86,6 @@
 		4D45E43E243C7A6600637259 /* AlarmStoryBoard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = AlarmStoryBoard.storyboard; sourceTree = "<group>"; };
 		4D45E441243C7CCF00637259 /* FirstSoundVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstSoundVC.swift; sourceTree = "<group>"; };
 		4D45E443243C7CE600637259 /* SecondSoundVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondSoundVC.swift; sourceTree = "<group>"; };
-		4D45E445243C7CFD00637259 /* FirstMeditationVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstMeditationVC.swift; sourceTree = "<group>"; };
-		4D45E447243C7D1100637259 /* SecondMeditationVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondMeditationVC.swift; sourceTree = "<group>"; };
 		4D45E449243C7D1D00637259 /* FirstAlarmVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstAlarmVC.swift; sourceTree = "<group>"; };
 		4D45E44B243C7D2900637259 /* SecondAlarmVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondAlarmVC.swift; sourceTree = "<group>"; };
 		4D45E44D243C7D3500637259 /* ThirdAlarmVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdAlarmVC.swift; sourceTree = "<group>"; };
@@ -106,6 +115,19 @@
 		7FE1D6BB2442FEA40089D4FA /* Ocean Waves.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Ocean Waves.mp3"; path = "Songs/Ocean Waves.mp3"; sourceTree = "<group>"; };
 		7FE1D6BC2442FEA40089D4FA /* Sunny Day.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Sunny Day.mp3"; path = "Songs/Sunny Day.mp3"; sourceTree = "<group>"; };
 		7FE1D6BD2442FEA40089D4FA /* Flowing Water.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Flowing Water.mp3"; path = "Songs/Flowing Water.mp3"; sourceTree = "<group>"; };
+		A5DA7EA924444CB7005DB919 /* MainVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainVC.swift; sourceTree = "<group>"; };
+		A5DA7EAB24444CCC005DB919 /* DetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailVC.swift; sourceTree = "<group>"; };
+		A5DA7EAD24444CDF005DB919 /* DesignTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignTableViewCell.swift; sourceTree = "<group>"; };
+		A5DA7EDA24445A24005DB919 /* Blue-Lagoon.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Blue-Lagoon.m4a"; sourceTree = "<group>"; };
+		A5DA7EDC24445A30005DB919 /* Country-Meadow.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Country-Meadow.m4a"; sourceTree = "<group>"; };
+		A5DA7EDE24445A38005DB919 /* Deep-Ocean.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Deep-Ocean.m4a"; sourceTree = "<group>"; };
+		A5DA7EE124445D41005DB919 /* Tropical-Sands.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Tropical-Sands.m4a"; sourceTree = "<group>"; };
+		A5DA7EE224445D44005DB919 /* Mountain-Refuge.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mountain-Refuge.m4a"; sourceTree = "<group>"; };
+		A5DA7EE324445D46005DB919 /* Desert-Oasis.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Desert-Oasis.m4a"; sourceTree = "<group>"; };
+		A5DA7EE424445D47005DB919 /* Island-Paradise.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Island-Paradise.m4a"; sourceTree = "<group>"; };
+		A5DA7EE524445D49005DB919 /* Fantasy-Island.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Fantasy-Island.m4a"; sourceTree = "<group>"; };
+		A5DA7EE624445D4C005DB919 /* Pain-Management.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Pain-Management.m4a"; sourceTree = "<group>"; };
+		A5DA7EE724445D4F005DB919 /* Falling-Asleep.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Falling-Asleep.m4a"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -199,8 +221,10 @@
 		4D45E450243C7D4200637259 /* Meditation */ = {
 			isa = PBXGroup;
 			children = (
-				4D45E445243C7CFD00637259 /* FirstMeditationVC.swift */,
-				4D45E447243C7D1100637259 /* SecondMeditationVC.swift */,
+				A5DA7EA924444CB7005DB919 /* MainVC.swift */,
+				A5DA7EAB24444CCC005DB919 /* DetailVC.swift */,
+				A5DA7EAD24444CDF005DB919 /* DesignTableViewCell.swift */,
+				A5DA7EAF24444DE5005DB919 /* Audios */,
 			);
 			path = Meditation;
 			sourceTree = "<group>";
@@ -244,6 +268,23 @@
 				7FE1D6B02442FEA30089D4FA /* Waterfall.mp3 */,
 			);
 			name = Songs;
+			sourceTree = "<group>";
+		};
+		A5DA7EAF24444DE5005DB919 /* Audios */ = {
+			isa = PBXGroup;
+			children = (
+				A5DA7EE324445D46005DB919 /* Desert-Oasis.m4a */,
+				A5DA7EE724445D4F005DB919 /* Falling-Asleep.m4a */,
+				A5DA7EE524445D49005DB919 /* Fantasy-Island.m4a */,
+				A5DA7EE424445D47005DB919 /* Island-Paradise.m4a */,
+				A5DA7EE224445D44005DB919 /* Mountain-Refuge.m4a */,
+				A5DA7EE624445D4C005DB919 /* Pain-Management.m4a */,
+				A5DA7EE124445D41005DB919 /* Tropical-Sands.m4a */,
+				A5DA7EDA24445A24005DB919 /* Blue-Lagoon.m4a */,
+				A5DA7EDC24445A30005DB919 /* Country-Meadow.m4a */,
+				A5DA7EDE24445A38005DB919 /* Deep-Ocean.m4a */,
+			);
+			path = Audios;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -305,37 +346,47 @@
 			buildActionMask = 2147483647;
 			files = (
 				7FE1D6C42442FEA40089D4FA /* Magic Elf.mp3 in Resources */,
+				A5DA7EEA24445D4F005DB919 /* Desert-Oasis.m4a in Resources */,
 				7FE1D6BE2442FEA40089D4FA /* Tropical Forest.mp3 in Resources */,
+				A5DA7EDD24445A30005DB919 /* Country-Meadow.m4a in Resources */,
 				4D45E431243C754500637259 /* LaunchScreen.storyboard in Resources */,
+				A5DA7EE924445D4F005DB919 /* Mountain-Refuge.m4a in Resources */,
 				7FE1D6C62442FEA40089D4FA /* Waterfall.mp3 in Resources */,
 				7FE1D6D22442FEA40089D4FA /* Sunny Day.mp3 in Resources */,
 				7FE1D6CA2442FEA40089D4FA /* Happy Time.mp3 in Resources */,
+				A5DA7EED24445D4F005DB919 /* Pain-Management.m4a in Resources */,
 				7FE1D6C12442FEA40089D4FA /* Bird Sound.mp3 in Resources */,
 				7FE1D6C22442FEA40089D4FA /* Early Morning.mp3 in Resources */,
 				7FE1D6D32442FEA40089D4FA /* Flowing Water.mp3 in Resources */,
 				7FE1D6C72442FEA40089D4FA /* Heavy Thunder.mp3 in Resources */,
 				7FE1D6CE2442FEA40089D4FA /* Always.mp3 in Resources */,
 				7FE1D6C32442FEA40089D4FA /* Camfire.mp3 in Resources */,
+				A5DA7EDF24445A38005DB919 /* Deep-Ocean.m4a in Resources */,
 				7FE1D6C92442FEA40089D4FA /* Sleep Tight.mp3 in Resources */,
 				7FE1D6D12442FEA40089D4FA /* Ocean Waves.mp3 in Resources */,
 				4D45E42E243C754500637259 /* Assets.xcassets in Resources */,
 				4D45E43D243C79D200637259 /* MeditationStoryBoard.storyboard in Resources */,
+				A5DA7EEB24445D4F005DB919 /* Island-Paradise.m4a in Resources */,
 				4DCFE49A24421E19005299B5 /* Bell.wav in Resources */,
 				4D45E42C243C754400637259 /* Main.storyboard in Resources */,
+				A5DA7EEE24445D4F005DB919 /* Falling-Asleep.m4a in Resources */,
 				3F312237243F616D0071BAF4 /* OnBoarding.storyboard in Resources */,
 				4D45E43B243C782300637259 /* SoundStoryBoard.storyboard in Resources */,
+				A5DA7EE824445D4F005DB919 /* Tropical-Sands.m4a in Resources */,
 				4DDCE25F243E13E20021097B /* AlarmCell.xib in Resources */,
 				7FE1D6C02442FEA40089D4FA /* Enjoy Light.mp3 in Resources */,
 				7FE1D6C82442FEA40089D4FA /* Missing You.mp3 in Resources */,
 				7FE1D6CF2442FEA40089D4FA /* Bedtime Lullaby.mp3 in Resources */,
 				7FE1D6C52442FEA40089D4FA /* River Flows.mp3 in Resources */,
 				7FE1D6BF2442FEA40089D4FA /* Delta Waves.mp3 in Resources */,
+				A5DA7EEC24445D4F005DB919 /* Fantasy-Island.m4a in Resources */,
 				4D45E43B243C782300637259 /* SoundStoryBoard.storyboard in Resources */,
 				7FE1D6CD2442FEA40089D4FA /* Bright Future.mp3 in Resources */,
 				7FE1D6CC2442FEA40089D4FA /* Peaceful Night.mp3 in Resources */,
 				4D45E43F243C7A6600637259 /* AlarmStoryBoard.storyboard in Resources */,
 				7FE1D6CB2442FEA40089D4FA /* Rainfall.mp3 in Resources */,
 				7FE1D6D02442FEA40089D4FA /* Lovely Journey.mp3 in Resources */,
+				A5DA7EE024445B55005DB919 /* Blue-Lagoon.m4a in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -347,18 +398,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				4D45E429243C754400637259 /* SecondOnBoarding.swift in Sources */,
+				A5DA7EAA24444CB7005DB919 /* MainVC.swift in Sources */,
 				3F312233243F5FDD0071BAF4 /* FourthOnBoarding.swift in Sources */,
 				4D45E442243C7CCF00637259 /* FirstSoundVC.swift in Sources */,
 				4D45E427243C754400637259 /* FirstOnBoarding.swift in Sources */,
-				4D45E446243C7CFD00637259 /* FirstMeditationVC.swift in Sources */,
+				A5DA7EAC24444CCC005DB919 /* DetailVC.swift in Sources */,
 				4D45E44C243C7D2900637259 /* SecondAlarmVC.swift in Sources */,
 				3F312235243F60040071BAF4 /* PageViewOnBoarding.swift in Sources */,
 				4D45E423243C754400637259 /* AppDelegate.swift in Sources */,
 				4DDCE261243E16040021097B /* Model.swift in Sources */,
 				4D45E444243C7CE600637259 /* SecondSoundVC.swift in Sources */,
 				4D45E44E243C7D3500637259 /* ThirdAlarmVC.swift in Sources */,
-				4D45E448243C7D1100637259 /* SecondMeditationVC.swift in Sources */,
 				4D45E425243C754400637259 /* SceneDelegate.swift in Sources */,
+				A5DA7EAE24444CDF005DB919 /* DesignTableViewCell.swift in Sources */,
 				3F312231243F5FCE0071BAF4 /* ThirdOnBoarding.swift in Sources */,
 				4D45E44A243C7D1D00637259 /* FirstAlarmVC.swift in Sources */,
 				4DDCE25E243E13E20021097B /* AlarmCell.swift in Sources */,

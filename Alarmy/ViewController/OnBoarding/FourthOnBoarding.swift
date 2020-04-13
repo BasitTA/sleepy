@@ -15,6 +15,22 @@ class FourthOnBoarding: UIViewController {
            customizeButton()
            
        }
+    
+    @IBAction func firstButton4(_ sender: Any) {
+        let next : UIViewController = UIStoryboard(name: "Main", bundle: nil).instantiateViewController(identifier: "tabBarVC")
+        next.modalPresentationStyle = .fullScreen
+        present(next, animated: true, completion: nil)
+    }
+    @IBAction func secondButton4(_ sender: Any) {
+        let next : UIViewController = UIStoryboard(name: "Main", bundle: nil).instantiateViewController(identifier: "tabBarVC")
+        next.modalPresentationStyle = .fullScreen
+        present(next, animated: true, completion: nil)
+    }
+    @IBAction func thirdButton4(_ sender: Any) {
+        let next : UIViewController = UIStoryboard(name: "Main", bundle: nil).instantiateViewController(identifier: "tabBarVC")
+        next.modalPresentationStyle = .fullScreen
+        present(next, animated: true, completion: nil)
+    }
        
        @IBOutlet weak var firstButton4: UIButton!
        @IBOutlet weak var secondButton4: UIButton!
