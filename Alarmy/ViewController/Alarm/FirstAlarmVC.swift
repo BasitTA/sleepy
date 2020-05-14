@@ -10,11 +10,16 @@ import UIKit
 
 class FirstAlarmVC: UIViewController {
     
+    @IBOutlet weak var bedTimeLbl: UIView!
+    @IBOutlet weak var wakeUpLbl: UIView!
+    
     var chosenAlarmType = ""
 
     override func viewDidLoad() {
         super.viewDidLoad()
 
+        bedTimeLbl.layer.cornerRadius = 10
+        wakeUpLbl.layer.cornerRadius = 10
         // Do any additional setup after loading the view.
     }
     

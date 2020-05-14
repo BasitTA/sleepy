@@ -45,7 +45,7 @@ class DetailVC: UIViewController {
         playPauseBtn.setImage(playImage, for: .normal)
         //costumize slider
         setStatusBar()
-        imageView.layer.cornerRadius = 10
+        imageView.layer.cornerRadius = 12
         //setup nilai maximum slider
         audioSlider.maximumValue = Float(audioPlayer.duration)
         //update value slider tiap 0.1 detik
@@ -123,7 +123,7 @@ class DetailVC: UIViewController {
     
     //Ganti tampilan slider
     func setStatusBar(){
-        let imageForThumb = UIImage(named: "img_circle.png")
+        let imageForThumb = UIImage(named: "img_circle.jpg")
         audioSlider.setThumbImage(imageForThumb, for: .normal)
         audioSlider.minimumTrackTintColor = UIColor.orange
         audioSlider.maximumTrackTintColor = UIColor.gray
